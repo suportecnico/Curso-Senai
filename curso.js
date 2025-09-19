@@ -20,7 +20,7 @@ function calculoDeCerca() {// Aqui ao invés de passar o parametro dentro da fun
 
 
     let resultadoHtml = `
-    <h4>Lembre-se, esse é um valor base, pois cada perímetro tem sua especifidade!</h4>
+    <h4>Lembre-se, esse é um valor base, pois cada perímetro tem sua especificidade!</h4>
     <p><strong>Arame:</strong> ${Math.ceil (arame)} metros!</P>
     <p><strong>Hastes Esticadoras:</strong> ${Math.ceil (hasteEsticadora)} unidades!</p>
     <p><strong>Hastes Passadoras:</strong> ${Math.ceil (hastePassadora)} unidades!</p>
