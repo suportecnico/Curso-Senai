@@ -20,3 +20,13 @@ h1 {
     padding: 1px 5px 5px 5px;
     border-radius: 5px;
 }
+
+footer {
+    text-align: center;
+    margin-top: 59vh;
+    margin-bottom: 0px;;
+}
+
+footer > p {
+    color: white;
+}
