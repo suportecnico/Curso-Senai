@@ -36,4 +36,5 @@ function limparCalculo() {
     if(calculoDeCerca !== 0) {
         document.getElementById("resultado").innerHTML = "<p>Preencha acima &#X2b06; com os metros do perímetro onde será instalada a cerca elétrica!</p>";
     }
+    
 }
